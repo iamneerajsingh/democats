@@ -13,3 +13,6 @@ This repo has the following Purpose
 ```powershell
 get-AzureSubscription
 ```
+
+1. next purpose
+2. next
