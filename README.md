@@ -16,3 +16,7 @@ get-AzureSubscription
 
 1. next purpose
 2. next
+
+|Firstname | LastName | Email |
+|----------|----------|-------|
+| Neeraj   |kumar     |Neerajmct@outlook.com|
